@@ -1,0 +1,1 @@
+const names= ['NTR','Pawan kalyan','Mahesh Babu','Prabash','Allu Arjun','Ram Charan'];
